@@ -11,7 +11,7 @@ keywords: 张建新, Zhuang Ma, mzlogin, mazhuang,张建新博,docker,Docker,Doc
 favicon: /favicon.ico
 timezone: Asia/Shanghai
 encoding: "utf-8"
-source_code: https://github.com/zmatsh/zmatsh.github.io/
+source_code: https://github.com/qqwader321/wder.github.io/
 side_bar_repo_limit: 5
 
 # ---------------- #
@@ -121,4 +121,4 @@ skill_mobile_app_keywords: [Android, Wex5, phoneGap]
 # Github metadata  #
 # ---------------- #
 gems: ['jekyll-github-metadata','jekyll-paginate','jekyll-feed']
-repository: zmatsh/zmatsh.github.io
+repository: qqwader321/wder.github.io
