@@ -2,13 +2,14 @@
 layout: page
 title: About
 description: 曲线救国
-keywords: zmatsh, 张建新
+keywords: zmatsh, wader
 comments: true
 menu: 关于
 permalink: /about/
 ---
 
-我是张建新，码而生，码而立，工作狂。
+
+码而生，码而立，工作狂。
 
 仰慕「优雅编码的艺术」。
 
